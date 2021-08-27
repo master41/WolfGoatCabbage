@@ -1,0 +1,6 @@
+﻿namespace WolfGoatCabbage
+{
+    interface IPassenger
+    {
+    }
+}
